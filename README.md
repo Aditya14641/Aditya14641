@@ -16,7 +16,7 @@
 
   <!-- SOCIAL LINKS -->
   <a href="mailto:aadityamehta1464@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="www.linkedin.com/in/aditya-mehta-781874291"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aditya-mehta-781874291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Aditya14641"><img src="https://img.shields.io/badge/GitHub-Profile-2D004B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   
   <br/><br/>
