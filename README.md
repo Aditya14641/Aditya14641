@@ -16,7 +16,7 @@
 
   <!-- SOCIAL LINKS -->
   <a href="mailto:aadityamehta1464@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/aditya-mehta-781874291"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Aditya14641"><img src="https://img.shields.io/badge/GitHub-Profile-2D004B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   
   <br/><br/>
@@ -145,21 +145,10 @@
 ### ✦ GITHUB ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya14641&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A020F0&icon_color=8A2BE2&show_icons=true&v=1" width="48%" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya14641&theme=tokyonight&hide_border=true&background=0D1117&ring=A020F0&fire=8A2BE2&currStreakLabel=8A2BE2&v=1" width="48%" alt="Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya14641&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A020F0&v=1" width="48%" alt="Top Langs" />
 </div>
 
----
-
-### ✦ GITHUB TROPHIES
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya14641&theme=dracula&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
-</div>
-
----
 
 ### ✦ CONTRIBUTION ACTIVITY
 
